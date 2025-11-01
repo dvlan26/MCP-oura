@@ -16,6 +16,10 @@ A [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) s
 | English                 | [English](https://github.com/YuzeHao2023/MCP-oura/README.md)        |
 | 中文                    | [中文](https://github.com/YuzeHao2023/MCP-oura/README_zh_CN.md)      |
 
+<a href="https://glama.ai/mcp/servers/@YuzeHao2023/MCP-oura">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@YuzeHao2023/MCP-oura/badge" alt="Oura Server MCP server" />
+</a>
+
 ## Available Tools
 
 The server exposes the following tools:
