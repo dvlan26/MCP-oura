@@ -80,5 +80,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 ## Core Contributors
-[![Contributors](https://github.com/YuzeHao2023/MCP-oura)](https://github.com/YuzeHao2023/MCP-oura/graphs/contributors)
-
+<div align="center">
+  <h4 align="center">
+    The core contributors are the cornerstone of the project.
+  </h4>
+  <a href="https://github.com/YuzeHao2023/MCP-oura/graphs/contributors">
+    <img src="https://github.com/YuzeHao2023/MCP-oura" />
+  </a>
+</div>
